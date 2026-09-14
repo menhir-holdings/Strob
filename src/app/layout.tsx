@@ -17,6 +17,7 @@ export const metadata: Metadata = {
   title: "Strob — Party engineering",
   description:
     "Live-synced program output. One board, many walls — palette, rate, and a 4-character show code.",
+  icons: { icon: [{ url: "/favicon.svg", type: "image/svg+xml" }] },
 };
 
 export const viewport: Viewport = {
